@@ -1,6 +1,5 @@
-<img src="app-icon.png" width="80" align="left" style="margin-right: 16px">
-
 # jTerm
+![Uploading image.png…]()
 
 macOS용 터미널 애플리케이션
 
