@@ -1,5 +1,5 @@
 # jTerm
-![Uploading image.png…]()
+<img width="367" height="356" alt="image" src="https://github.com/user-attachments/assets/b3f2b977-6f03-46ae-8c90-5b45c2b2ae64" />
 
 macOS용 터미널 애플리케이션
 
